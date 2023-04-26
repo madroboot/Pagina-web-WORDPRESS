@@ -27,7 +27,7 @@ Aquí hemos señalado los diseños mas interesantes para nuestro proyecto sobre 
 - -> SAVE THE CHILDREN
 -   TRANSPARENCY INTERNATIONAL THE GLOBAL COALITION AGAINST CORRUPTION
     
-### Estrauctura
+## Estrauctura
 
 Recogiendo todo lo que hemos visto en las paginas web que hemos destacado podemos empezar a estructurar una pagina web:
 
