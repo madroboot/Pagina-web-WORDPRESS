@@ -66,3 +66,12 @@ Recogiendo todo lo que hemos visto en las paginas web que hemos destacado podemo
 ### 9. Explicación de nuestra ODS:
 
   Haremos una pequeña explicación sobre la importancia de abordar este problema.
+  
+  ## Plantillas
+  
+  Utilzar las plantillases una forma muy sencilla para darle un toque agradable a nuestra pagina web utilizando un diseño ya creado por otros usuarios. Nosotros empezaremos nuestra pagina web usando la plantilla *Ona (versión 1.17.4) de DeoThemes* esta plantilla la encontraremos en  el buscador del propio word press y nos permite hacer cambios por bloques que es como vamos a trabajar nosotros:
+  
+  ![word press plantilla](https://user-images.githubusercontent.com/122264680/234847656-cc7a3455-99ff-40ea-bd95-92a94e230f62.png)
+  
+  
+  
