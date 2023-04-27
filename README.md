@@ -32,7 +32,7 @@ Aquí hemos señalado los diseños mas interesantes para nuestro proyecto sobre 
 Recogiendo todo lo que hemos visto en las paginas web que hemos destacado podemos empezar a estructurar una pagina web:
 
 ### 1.     Página de inicio:
-    La página de inicio debe ser atractiva y tener un diseño claro y fácil de navegar. Incluye una breve descripción de la misión y los objetivos de la ONG, así como enlaces a otras páginas importantes del sitio web.
+ La página de inicio debe ser atractiva y tener un diseño claro y fácil de navegar. Incluye una breve descripción de la misión y los objetivos de la ONG, así como enlaces a otras páginas importantes del sitio web.
 
 ### 2.   Quiénes somos:
     En esta sección se puede incluir una descripción más detallada de la ONG, su historia, sus valores, su equipo y su estructura organizativa.
