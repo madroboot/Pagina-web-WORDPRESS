@@ -3,10 +3,10 @@ COMO, CREAR UNA PAGINA WEB EN WORDPRESS
 
 ## ¿Que paginas web tomaremos de referencia?
 
-Para crearnuetsra pagina web sobre una ong primero buscaremos isnpiración en los diseños mas destacados de las entidades internacionales.
+Para crear nuestra pagina web sobre una ong primero buscaremos isnpiración en los diseños mas destacados de las entidades internacionales.
 Aquí hemos señalado los diseños mas interesantes para nuestro proyecto sobre la ods que defiende una educación de calidad y universal.
 
---> AMNISTÍA INTERNACIONAL
+- -> AMNISTÍA INTERNACIONAL
 -   ARTICULACIÓN FEMINISTA DEL MERCOSUR
 -   ASOCIACIÓN PARA LA PREVENCIÓN DE LA TORTURA
 -   BRIGADAS INTERNACIONALES DE PAZ
@@ -15,8 +15,8 @@ Aquí hemos señalado los diseños mas interesantes para nuestro proyecto sobre 
 -   COMITÉ DE AMÉRICA LATINA Y EL CARIBE PARA LA DEFENSA DE LOS DERECHOS DE LA MUJER
 -   COMMITTEE TO PROTECT JOURNALISTS
 -   DERECHOS HUMAN RIGHTS
---> EL MOVIMIENTO DE LOS PUEBLOS PARA LA EDUCACION EN DERECHOS HUMANOS
---> FEDERACIÓN INTERNACIONAL DE DERECHOS HUMANOS
+- * EL MOVIMIENTO DE LOS PUEBLOS PARA LA EDUCACION EN DERECHOS HUMANOS
+- -> FEDERACIÓN INTERNACIONAL DE DERECHOS HUMANOS
 -   FEDERACIÓN LATINOAMERICANA DE ASOCIACIONES DE FAMILIARES DE DETENIDOS-DESAPARECIDOS
 -   FRONT LINE PROTECCIÓN DE DEFENSORES/AS DE DERECHOS HUMANOS
 -   FUNDACIÓN AMBIENTE Y RECURSOS NATURALES
