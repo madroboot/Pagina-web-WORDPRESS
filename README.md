@@ -73,5 +73,11 @@ Recogiendo todo lo que hemos visto en las paginas web que hemos destacado podemo
   
   ![word press plantilla](https://user-images.githubusercontent.com/122264680/234847656-cc7a3455-99ff-40ea-bd95-92a94e230f62.png)
   
+  ## Logo
   
+   PAra darle un toque mas peronsal a nuestra pagina crearemos un logo con *logoai* Una pagina web que utiliza iteligencia artificial para generar logos según las preferencias que indiquemos, esta herramienta es muy sencilla de usar y nos puede dejar resultados como este logo, que será el que usemos para nuestra pagina web.
+   
+   ![logo](https://user-images.githubusercontent.com/122264680/235069967-4514918d-751f-420b-b34c-8f39aa4edef2.png)
+
+   
   
